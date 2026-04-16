@@ -7,5 +7,3 @@
 ## Run
 python app.py
 
-## Notes
-Dataset sourced from the provided example repository, as no starter repo was included in the task instructions.
